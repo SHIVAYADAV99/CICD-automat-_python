@@ -12,4 +12,4 @@ A simple Flask app
 
 Docker
 
-A shell script or Makefile or CI (like GitHub Actions) for automation
+A shell script or Makefile or CI (like GitHub Actions) for automatiod
